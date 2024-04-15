@@ -1,0 +1,9 @@
+Materia: PROYECTO integrador
+
+Profesor: Gonzalo Vera
+
+Alumno: Jose Luis Marquez.
+
+TP#1 IOT + GIT + GIT HUB + HERRAMIENTAS DE DESAROLLO.
+
+    Archvo de texto realizado en editor VSCode para el TP1 de Proyecto integrador.
