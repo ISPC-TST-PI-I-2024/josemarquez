@@ -1,4 +1,4 @@
-![alt text](../Recursos/Logo-ispc.png)
+![alt text](Recursos/Banner-ispc.png)
 
 # PROYECTO INTEGRADOR - Trabajo Practico Semana #1
 
