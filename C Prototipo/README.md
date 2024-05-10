@@ -11,4 +11,4 @@
 #### Instructivo de Git y Git Hub.
 
 ### 3. Introducción Exploración de Herramientas de Desarrollo  
-#### Instalacio de herramientas de desarrollo.
+#### Instalación de herramientas de desarrollo.

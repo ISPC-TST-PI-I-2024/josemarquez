@@ -1,6 +1,9 @@
 ![alt text](../Recursos/Banner-ispc.png)
 
-# PROYECTO INTEGRADOR - Trabajo Practico Semana #1
+# MATERIA PROYECTO INTEGRADOR
+
+#### Profesor: Gonzalo Vera.  
+#### Alumno: José Márquez.
 
 ## Trabajo Práctico #1: Introducción al IoT
 
